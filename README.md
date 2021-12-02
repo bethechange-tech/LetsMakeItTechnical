@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LetsMakeItTechnical
-- 👀 I’m interested in NodeJS and AWS
-- 🌱 I’m currently learning AWS
+- 👀 I’m specialize in NodeJS and AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
