@@ -1,4 +1,3 @@
-<!-- - 👋 Hi, I’m @LetsMakeItTechnical - 👀 I’m specialize in NodeJS and AWS  -->
 ### Hi there, I'm Rasul - aka @LetsMakeItTechnical 👋 
 
 ## I'm a Husband, Father and Software Engineer!!
@@ -8,5 +7,5 @@
 - ⚡ Fun fact: I love to mma and football
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
-
+<!-- - 👋 Hi, I’m @LetsMakeItTechnical - 👀 I’m specialize in NodeJS and AWS  -->
 
