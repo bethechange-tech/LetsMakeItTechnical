@@ -8,7 +8,7 @@
 
 ## I'm a Husband, Father and a Software Engineer!!
 
-- 👀 I’m specialize in NodeJS, Typescript and AWS
+- 👀 I specialize in NodeJS, Typescript and AWS
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to mma and football
 <!-- - 💞️ I’m looking to collaborate on ...
