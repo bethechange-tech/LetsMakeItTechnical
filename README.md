@@ -6,7 +6,7 @@
  -->
 ### Hi there, I'm Rasul - aka @LetsMakeItTechnical 👋 
 
-## I'm a Husband, Father and a Software Engineer!!
+## I'm a Husband, Father and Software Engineer!!
 
 - 👀 I specialize in NodeJS, Typescript and AWS
 - 🥅 2022 Goals: Contribute more to Open Source projects
