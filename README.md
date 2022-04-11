@@ -1,4 +1,4 @@
-### Hi there, I'm Rasul 👋 
+### Hi there 👋 
 
 ## I'm a Husband, Father and Software Engineer!!
 
