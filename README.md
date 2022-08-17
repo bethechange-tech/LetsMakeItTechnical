@@ -24,3 +24,7 @@
 
 
 
+
+#### Github Stats
+
+![LetsMakeItTechnical's github stats](https://github-readme-stats.vercel.app/api?username=LetsMakeItTechnical&count_private=true&theme=tokyonight&hide=contribs,prs)
