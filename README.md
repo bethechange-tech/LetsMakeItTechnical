@@ -9,7 +9,6 @@
 - Founder of Omerta Technology https://www.omertatechnology.com/
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
-<!-- - 👋 Hi, I’m @LetsMakeItTechnical - 👀 I’m specialize in NodeJS and AWS  -->
 
 
 #### Top Technologies
