@@ -4,7 +4,7 @@
 
 - 👀 I specialize in NodeJS, Typescript and AWS
 <!-- - 🥅 2022 Goals: Contribute more to Open Source projects  -->
-- ⚡ Fun fact: I love mma and football
+- ⚡ Fun fact: I love mma, boxing and football
 - 📫 How to reach me ...
 - Founder of Omerta Technology https://www.omertatechnology.com/
 <!-- - 💞️ I’m looking to collaborate on ...
