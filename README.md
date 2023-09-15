@@ -1,6 +1,6 @@
 ### Hi there I am Rasul 👋 
 
-## I'm a Husband, Father and Senior Software Engineer!!
+## I'm a Husband, Father, Teacher and Senior Software Engineer!!
 
 - 👀 I specialize in NodeJS, Typescript and AWS
 <!-- - 🥅 2022 Goals: Contribute more to Open Source projects  -->
