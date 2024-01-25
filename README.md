@@ -41,7 +41,7 @@
   
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
-<img src='https://github-readme-activity-graph.cyclic.app/graph?username=patDev04&bg_color=000000&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false' height='400px'/>
+<img src='https://github-readme-activity-graph.cyclic.app/graph?username=LetsMakeItTechnical&bg_color=000000&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false' height='400px'/>
   
 </details>
 
