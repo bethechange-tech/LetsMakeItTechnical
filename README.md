@@ -24,10 +24,24 @@
 
 
 
+<details> 
+  <summary><h3>Github Stats and Activity</h3></summary>
 
-#### Github Stats
+  <h4>Streak Stats</h4>
 
-![LetsMakeItTechnical's github stats](https://github-readme-stats.vercel.app/api?username=LetsMakeItTechnical&count_private=true&theme=tokyonight&hide=contribs,prs)
+  ![](https://github-readme-stats.vercel.app/api?username=patDev04&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)    
+  
+  <h4> GitHub Profile Stats</h4>
+  <img src='https://github-readme-streak-stats.herokuapp.com/?user=patDev04&theme=vision-friendly-dark&hide_border=false' height='192px' width='400px'/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=patDev04&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact' height='192px' width='400px' />
+
+  #
+  
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+<img src='https://github-readme-activity-graph.cyclic.app/graph?username=patDev04&bg_color=000000&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false' height='400px'/>
+  
+</details>
 
 
 ###  GitHub Trophies
