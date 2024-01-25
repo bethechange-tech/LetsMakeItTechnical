@@ -31,7 +31,7 @@
 
   <h4>Streak Stats</h4>
 
-  ![](https://github-readme-stats.vercel.app/api?username=patDev04&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)    
+  ![](https://github-readme-stats.vercel.app/api?username=LetsMakeItTechnical&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)    
   
   <h4> GitHub Profile Stats</h4>
   <img src='https://github-readme-streak-stats.herokuapp.com/?user=patDev04&theme=vision-friendly-dark&hide_border=false' height='192px' width='400px'/>
