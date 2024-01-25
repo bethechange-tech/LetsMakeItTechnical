@@ -22,10 +22,6 @@
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
  
 
-#### Github Stats
-
-![LetsMakeItTechnical's github stats](https://github-readme-stats.vercel.app/api?username=LetsMakeItTechnical&count_private=true&theme=tokyonight&hide=contribs,prs)
-
 <details> 
   <summary><h3>Github Stats and Activity</h3></summary>
 
