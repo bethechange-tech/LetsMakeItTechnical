@@ -28,3 +28,7 @@
 #### Github Stats
 
 ![LetsMakeItTechnical's github stats](https://github-readme-stats.vercel.app/api?username=LetsMakeItTechnical&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+
+###  GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=patDev04&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
